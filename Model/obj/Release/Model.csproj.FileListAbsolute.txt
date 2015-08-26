@@ -1,0 +1,5 @@
+D:\WWW\learnproject\MyWeb\Model\bin\Release\Model.dll
+D:\WWW\learnproject\MyWeb\Model\bin\Release\Model.pdb
+D:\WWW\learnproject\MyWeb\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\WWW\learnproject\MyWeb\Model\obj\Release\Model.dll
+D:\WWW\learnproject\MyWeb\Model\obj\Release\Model.pdb

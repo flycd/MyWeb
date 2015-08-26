@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="/js/jquery-1.11.3.min.js"></script>
+    <link href="/css/wangEditor-1.3.0.min.css" rel="stylesheet" />
+   
+</head>
+<body>
+    <form action="/Blog/Edit" method="post">
+        标题<input type="text" id="title" name="title" value="@Model.Title" /><br />
+        作者<input type="text" id="writer" name="writer" value="@Model.Writer" /><br />
+        内容
+        
+       <textarea id='content' name="content" style='height:300px; width:100%;'>
+	@Model.Content
+</textarea>
+
+        <br />
+        <input type="hidden" style="display:none" name="id" value="@Model.ID" />
+        <input type="submit" name="name"  onclick="return checkinput()"  value="保存" />&nbsp;&nbsp;<a href="/">index</a>
+    </form>
+</body> 
+<script src="/js/wangEditor-1.3.0.min.js"></script>
+    <script>
+        $(function () {
+            $('#content').wangEditor({
+                'uploadUrl': '/Blog/Uploadimg'
+            });
+        });
+        function checkinput() {
+            if ($("#title").val().length <= 0) {
+                alert("标题不能为空！");
+                $("#title").focus();
+                return false;
+            }
+            if ($("#writer").val().length <= 0) {
+                alert("作者不能为空！");
+                $("#writer").focus();
+                return false;
+            }
+            if ($("#content").val().length <= 0) {
+                alert("内容不能为空！");
+                $("#content").focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
+</html>

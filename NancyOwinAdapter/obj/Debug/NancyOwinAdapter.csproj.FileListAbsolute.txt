@@ -1,0 +1,10 @@
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\obj\Debug\NancyOwinAdapter.csprojResolveAssemblyReference.cache
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\NancyOwinAdapter.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\NancyOwinAdapter.pdb
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\Microsoft.Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\Nancy.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\Nancy.Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Debug\Microsoft.Owin.xml
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\obj\Debug\NancyOwinAdapter.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\obj\Debug\NancyOwinAdapter.pdb

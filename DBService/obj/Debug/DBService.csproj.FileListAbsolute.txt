@@ -1,0 +1,8 @@
+D:\WWW\learnproject\MyWeb\DBService\bin\Debug\DBService.dll
+D:\WWW\learnproject\MyWeb\DBService\bin\Debug\DBService.pdb
+D:\WWW\learnproject\MyWeb\DBService\bin\Debug\LiteDB.dll
+D:\WWW\learnproject\MyWeb\DBService\bin\Debug\Model.dll
+D:\WWW\learnproject\MyWeb\DBService\bin\Debug\Model.pdb
+D:\WWW\learnproject\MyWeb\DBService\obj\Debug\DBService.csprojResolveAssemblyReference.cache
+D:\WWW\learnproject\MyWeb\DBService\obj\Debug\DBService.dll
+D:\WWW\learnproject\MyWeb\DBService\obj\Debug\DBService.pdb

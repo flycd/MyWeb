@@ -1,0 +1,9 @@
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\NancyOwinAdapter.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\NancyOwinAdapter.pdb
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\Microsoft.Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\Nancy.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\Nancy.Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\Owin.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\bin\Release\Microsoft.Owin.xml
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\obj\Release\NancyOwinAdapter.dll
+D:\WWW\learnproject\MyWeb\NancyOwinAdapter\obj\Release\NancyOwinAdapter.pdb

@@ -1,0 +1,59 @@
+﻿/* CSS Document */
+body{margin:0;padding:0;font-size:12px;font-family:"\5FAE\8F6F\96C5\9ED1","微软雅黑";color:#000;}
+span,input, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,table,tr,td {margin: 0;padding: 0;list-style:none;border:0;}
+h1, h2, h3, h4{font-weight:normal;}
+a{text-decoration:none;color:#000000;}
+a{ hide-focus:expression(this.hideFocus=true); } /* for IE7.0及以下版本 */
+a:focus{outline-style:none; }/* for Firefox，IE8.0等 */
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;}
+
+
+.menu ul{list-style:none;}
+.menu li{float:left;width:100px;background:#CCC;margin-left:3px;line-height:30px;}
+.menu a{display:block;text-align:center;height:30px;}
+.menu a:link{color:#666;background:url(arrow_off.gif) #CCC no-repeat 5px 12px;text-decoration:none;}
+.menu a:visited{color:#666;text-decoration:underline;}
+.menu a:hover{color:#FFF; font-weight:bold;text-decoration:none;background:url(arrow_on.gif) #808080 no-repeat 5px 12px;}
+
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

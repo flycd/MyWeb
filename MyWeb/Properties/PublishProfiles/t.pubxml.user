@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DBService.dll">
+      <publishTime>07/14/2015 15:26:20</publishTime>
+    </File>
+    <File Include="bin/LiteDB.dll">
+      <publishTime>07/13/2015 16:12:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>07/14/2015 17:04:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.QualityTools.Testing.Fakes.dll">
+      <publishTime>07/26/2012 19:41:24</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>07/14/2015 15:26:19</publishTime>
+    </File>
+    <File Include="bin/MyWeb.dll">
+      <publishTime>07/15/2015 15:22:40</publishTime>
+    </File>
+    <File Include="bin/Nancy.dll">
+      <publishTime>07/14/2015 17:31:06</publishTime>
+    </File>
+    <File Include="bin/Nancy.Hosting.Aspnet.dll">
+      <publishTime>07/13/2015 16:09:19</publishTime>
+    </File>
+    <File Include="bin/Nancy.Owin.dll">
+      <publishTime>07/14/2015 17:09:51</publishTime>
+    </File>
+    <File Include="bin/Nancy.ViewEngines.Razor.dll">
+      <publishTime>07/13/2015 16:09:41</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>07/14/2015 17:04:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/13/2015 16:09:41</publishTime>
+    </File>
+    <File Include="bin/Views/MenuIndex.cshtml">
+      <publishTime>07/14/2015 11:10:31</publishTime>
+    </File>
+    <File Include="css/Style.css">
+      <publishTime>07/15/2015 14:05:23</publishTime>
+    </File>
+    <File Include="lib/LiteDB.dll">
+      <publishTime>07/13/2015 16:12:54</publishTime>
+    </File>
+    <File Include="lib/Microsoft.Owin.dll">
+      <publishTime>07/14/2015 17:04:01</publishTime>
+    </File>
+    <File Include="lib/Microsoft.Owin.xml">
+      <publishTime>07/14/2015 17:04:01</publishTime>
+    </File>
+    <File Include="lib/Nancy.dll">
+      <publishTime>07/14/2015 17:31:06</publishTime>
+    </File>
+    <File Include="lib/Owin.dll">
+      <publishTime>07/14/2015 17:04:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/15/2015 15:15:51</publishTime>
+    </File>
+    <File Include="script/jquery-1.10.2.min.js">
+      <publishTime>07/13/2015 16:34:42</publishTime>
+    </File>
+    <File Include="Views/Blog/List.cshtml">
+      <publishTime>07/14/2015 11:41:51</publishTime>
+    </File>
+    <File Include="Views/Blog/Login.cshtml">
+      <publishTime>07/14/2015 11:14:53</publishTime>
+    </File>
+    <File Include="Views/Blog/Manage.cshtml">
+      <publishTime>07/14/2015 11:50:29</publishTime>
+    </File>
+    <File Include="Views/Home.cshtml">
+      <publishTime>07/13/2015 17:32:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/15/2015 15:22:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
